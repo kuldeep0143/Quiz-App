@@ -1,6 +1,6 @@
 ## 🚀  I'm  share the completion of my latest project: a dynamic and engaging Quiz Application built with React.js! 🧠🌟
 
-###🔗 Explore the app: - https://quizgame2127.netlify.app/
+🔗 Explore the app: - https://quizgame2127.netlify.app/
 
 👉 Here's what makes this Quiz App stand out:
 
